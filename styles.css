@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #081a69;
+  }
+h1 {
+    color: #fff;
+    text-align: center;
+    height: 4em;
+    font-family: serif;
+    margin-top: 20px
+}
+
+.namebox {
+    color: grey;
+}
+p {
+    text-align: center;
+    font-style: italic;
+    height: 1em;
+    color: white;
+    
+}
+
